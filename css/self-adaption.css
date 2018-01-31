@@ -1,0 +1,29 @@
+/*@media screen and (min-width: 960px){*/
+    /*.heading,*/
+    /*.container,*/
+    /*.footing{*/
+        /*width: 960px;*/
+    /*}*/
+
+    /*.left,*/
+    /*.main,*/
+    /*.right{*/
+        /*float: left;*/
+        /*height: 500px;*/
+    /*}*/
+
+    /*.left,*/
+    /*.right*/
+    /*{*/
+        /*width: 200px;*/
+    /*}*/
+    /*.main{*/
+        /*margin-left: 5px;*/
+        /*margin-right: 5px;*/
+        /*width: 550px;*/
+    /*}*/
+    /*.container{*/
+        /*height: 500px;*/
+    /*}*/
+
+/*}*/
